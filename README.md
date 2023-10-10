@@ -1,3 +1,4 @@
-# Video-chat-v1
+# Video-chat-v
 
-Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
+Video-chat-v is a video chat app that allows you to meet your colleagues, friends and family and talk via voice, chat and video call
+.
